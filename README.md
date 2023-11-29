@@ -1,4 +1,4 @@
-# HomeWork2_Css #[[[https://replit.com/@gaamra12/ProjectStarter#css](https://replit.com/@gaamra12/ProjectStarter#css/style.css)](https://replit.com/@gaamra12/ProjectStarter#css/style.css)](https://replit.com/@gaamra12/ProjectStarter#css/style.css)
+# HomeWork2_Css #https://replit.com/@gaamra12/ProjectStarter#css/style.css
 * HomeWork2_Css*
 ![image](https://github.com/AGamra/HomeWork1_Css/assets/95383719/dc09fb61-12a4-4364-abad-62d6e6cce867)
 ______________________________________________________________________________________________________________________________________________________
@@ -15,5 +15,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 ![WhatsApp Image 2023-11-23 at 8 14 40 AM](https://github.com/AGamra/HomeWork1_Css/assets/95383719/f728837b-8994-4878-ae03-84f8c66a2a63)
 ______________________________________________________________________________________________________________________________________________________
+
+
 
 
